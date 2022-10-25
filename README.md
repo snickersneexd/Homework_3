@@ -234,7 +234,7 @@ public class DragonPicker : MonoBehaviour
 ![Alt text](Images/17.png?raw=true "Title")
 
 3) После проверки нашего архива можно перейти на черновик и убедиться, что все работает корректно.
-![Alt text](Images/18.png?raw=true "Title")
+![Alt text](Images/18.jpg?raw=true "Title")
 
 ## Выводы
 
