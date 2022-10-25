@@ -63,6 +63,7 @@ public class EnergyShield : MonoBehaviour
 ```
 
 Теперь наш энергетический щит движется по направлению мыши.
+
 ![Alt text](Images/1.png?raw=true "Title")
 ![Alt text](Images/2.png?raw=true "Title")
 ![Alt text](Images/3.png?raw=true "Title")
@@ -96,10 +97,12 @@ public class EnergyShield : MonoBehaviour
 ```
 
 Теперь драконье яйцо пропадает при пересечении с энергетическим щитом.
+
 ![Alt text](Images/4.png?raw=true "Title")
 ![Alt text](Images/5.png?raw=true "Title")
 
 3) Добавляем элемент Canvas и Text, редактируем их под Main Camera для лучшего вида.
+4) 
 ![Alt text](Images/Canvas.png?raw=true "Title")
 
 4) Создаем счётчик очков, для этого нужно добавить новый метод в скрипт "EnergyShield".
@@ -145,6 +148,7 @@ public class EnergyShield : MonoBehaviour
 ```
 
 Проверяем, что наш счётчик работает корректно.
+
 ![Alt text](Images/6.png?raw=true "Title")
 ![Alt text](Images/7.png?raw=true "Title")
 ![Alt text](Images/8.png?raw=true "Title")
@@ -204,18 +208,21 @@ public class DragonPicker : MonoBehaviour
 ```
 
 Радиус щита уменьшается с каждым промахом, если потерять все три щита - игра начнется сначала.
+
 ![Alt text](Images/9.png?raw=true "Title")
 ![Alt text](Images/10.png?raw=true "Title")
 ![Alt text](Images/11.png?raw=true "Title")
 
 2) Добавим на сцену префаб горы и отредактируем его.
+3) 
 ![Alt text](Images/12.png?raw=true "Title")
 
 3) Также добавляем Skybox.
+4) 
 ![Alt text](Images/13.png?raw=true "Title")
 
-4) Выполним структурирование исходных файлов.
-Для этого рассортируем все нужные элементы по папкам и удалим лишнее.
+4) Выполним структурирование исходных файлов. Для этого рассортируем все нужные элементы по папкам и удалим лишнее.
+
 ![Alt text](Images/14.png?raw=true "Title")
 
 ## Задание 3
@@ -225,6 +232,7 @@ public class DragonPicker : MonoBehaviour
 Ход работы:
 
 1) Импортируем плагин от Яндекс.Игр для корректной инициализации Yandex.SDK
+2) 
 ![Alt text](Images/15.png?raw=true "Title")
 
 2) Добавляем на сцену элемент "YandexGame".
@@ -232,9 +240,11 @@ public class DragonPicker : MonoBehaviour
 ![Alt text](Images/16.png?raw=true "Title")
 
 2) Архивируем билд нашей игры в zip-формат и загружаем в Яндекс.Консоль
+3) 
 ![Alt text](Images/17.png?raw=true "Title")
 
 3) После проверки нашего архива можно перейти на черновик и убедиться, что все работает корректно.
+4) 
 ![Alt text](Images/18.jpg?raw=true "Title")
 
 ## Выводы
