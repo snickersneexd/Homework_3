@@ -228,6 +228,7 @@ public class DragonPicker : MonoBehaviour
 ![Alt text](Images/15.png?raw=true "Title")
 
 2) Добавляем на сцену элемент "YandexGame".
+
 ![Alt text](Images/16.png?raw=true "Title")
 
 2) Архивируем билд нашей игры в zip-формат и загружаем в Яндекс.Консоль
