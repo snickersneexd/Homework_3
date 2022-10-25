@@ -102,7 +102,7 @@ public class EnergyShield : MonoBehaviour
 ![Alt text](Images/5.png?raw=true "Title")
 
 3) Добавляем элемент Canvas и Text, редактируем их под Main Camera для лучшего вида.
-4) 
+
 ![Alt text](Images/Canvas.png?raw=true "Title")
 
 4) Создаем счётчик очков, для этого нужно добавить новый метод в скрипт "EnergyShield".
@@ -214,11 +214,11 @@ public class DragonPicker : MonoBehaviour
 ![Alt text](Images/11.png?raw=true "Title")
 
 2) Добавим на сцену префаб горы и отредактируем его.
-3) 
+
 ![Alt text](Images/12.png?raw=true "Title")
 
 3) Также добавляем Skybox.
-4) 
+
 ![Alt text](Images/13.png?raw=true "Title")
 
 4) Выполним структурирование исходных файлов. Для этого рассортируем все нужные элементы по папкам и удалим лишнее.
@@ -232,7 +232,7 @@ public class DragonPicker : MonoBehaviour
 Ход работы:
 
 1) Импортируем плагин от Яндекс.Игр для корректной инициализации Yandex.SDK
-2) 
+
 ![Alt text](Images/15.png?raw=true "Title")
 
 2) Добавляем на сцену элемент "YandexGame".
@@ -240,11 +240,11 @@ public class DragonPicker : MonoBehaviour
 ![Alt text](Images/16.png?raw=true "Title")
 
 2) Архивируем билд нашей игры в zip-формат и загружаем в Яндекс.Консоль
-3) 
+
 ![Alt text](Images/17.png?raw=true "Title")
 
 3) После проверки нашего архива можно перейти на черновик и убедиться, что все работает корректно.
-4) 
+
 ![Alt text](Images/18.jpg?raw=true "Title")
 
 ## Выводы
